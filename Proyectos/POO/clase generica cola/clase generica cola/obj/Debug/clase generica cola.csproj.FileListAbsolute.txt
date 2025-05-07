@@ -1,0 +1,7 @@
+C:\Users\ricar\source\repos\clase generica cola\clase generica cola\bin\Debug\clase generica cola.exe.config
+C:\Users\ricar\source\repos\clase generica cola\clase generica cola\bin\Debug\clase generica cola.exe
+C:\Users\ricar\source\repos\clase generica cola\clase generica cola\bin\Debug\clase generica cola.pdb
+C:\Users\ricar\source\repos\clase generica cola\clase generica cola\obj\Debug\clase generica cola.csproj.AssemblyReference.cache
+C:\Users\ricar\source\repos\clase generica cola\clase generica cola\obj\Debug\clase generica cola.csproj.CoreCompileInputs.cache
+C:\Users\ricar\source\repos\clase generica cola\clase generica cola\obj\Debug\clase generica cola.exe
+C:\Users\ricar\source\repos\clase generica cola\clase generica cola\obj\Debug\clase generica cola.pdb

@@ -1,0 +1,7 @@
+C:\Users\ricar\source\repos\arreglos fundamentos de programacion\arreglos fundamentos de programacion\obj\Debug\arreglos fundamentos de programacion.csproj.AssemblyReference.cache
+C:\Users\ricar\source\repos\arreglos fundamentos de programacion\arreglos fundamentos de programacion\obj\Debug\arreglos fundamentos de programacion.csproj.CoreCompileInputs.cache
+C:\Users\ricar\source\repos\arreglos fundamentos de programacion\arreglos fundamentos de programacion\bin\Debug\arreglos fundamentos de programacion.exe.config
+C:\Users\ricar\source\repos\arreglos fundamentos de programacion\arreglos fundamentos de programacion\bin\Debug\arreglos fundamentos de programacion.exe
+C:\Users\ricar\source\repos\arreglos fundamentos de programacion\arreglos fundamentos de programacion\bin\Debug\arreglos fundamentos de programacion.pdb
+C:\Users\ricar\source\repos\arreglos fundamentos de programacion\arreglos fundamentos de programacion\obj\Debug\arreglos fundamentos de programacion.exe
+C:\Users\ricar\source\repos\arreglos fundamentos de programacion\arreglos fundamentos de programacion\obj\Debug\arreglos fundamentos de programacion.pdb

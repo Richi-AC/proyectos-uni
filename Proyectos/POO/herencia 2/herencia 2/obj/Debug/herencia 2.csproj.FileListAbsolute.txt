@@ -1,0 +1,7 @@
+C:\Users\ricar\source\repos\herencia 2\herencia 2\obj\Debug\herencia 2.csproj.AssemblyReference.cache
+C:\Users\ricar\source\repos\herencia 2\herencia 2\obj\Debug\herencia 2.csproj.CoreCompileInputs.cache
+C:\Users\ricar\source\repos\herencia 2\herencia 2\bin\Debug\herencia 2.exe.config
+C:\Users\ricar\source\repos\herencia 2\herencia 2\bin\Debug\herencia 2.exe
+C:\Users\ricar\source\repos\herencia 2\herencia 2\bin\Debug\herencia 2.pdb
+C:\Users\ricar\source\repos\herencia 2\herencia 2\obj\Debug\herencia 2.exe
+C:\Users\ricar\source\repos\herencia 2\herencia 2\obj\Debug\herencia 2.pdb

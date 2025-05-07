@@ -1,0 +1,7 @@
+C:\Users\ricar\source\repos\clase generica stack\clase generica stack\bin\Debug\clase generica stack.exe.config
+C:\Users\ricar\source\repos\clase generica stack\clase generica stack\bin\Debug\clase generica stack.exe
+C:\Users\ricar\source\repos\clase generica stack\clase generica stack\bin\Debug\clase generica stack.pdb
+C:\Users\ricar\source\repos\clase generica stack\clase generica stack\obj\Debug\clase generica stack.csproj.AssemblyReference.cache
+C:\Users\ricar\source\repos\clase generica stack\clase generica stack\obj\Debug\clase generica stack.csproj.CoreCompileInputs.cache
+C:\Users\ricar\source\repos\clase generica stack\clase generica stack\obj\Debug\clase generica stack.exe
+C:\Users\ricar\source\repos\clase generica stack\clase generica stack\obj\Debug\clase generica stack.pdb
