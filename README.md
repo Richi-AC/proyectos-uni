@@ -1,0 +1,1 @@
+Este repositorio estara conformado por proyectos realizados durante mi carreara en el ITT como estudiante de ingenieria en sistemas computacionales como evidencia de mis conocimientos en el area para la vacante de practicante de desarrollo movil 
